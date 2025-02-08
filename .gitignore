@@ -1,22 +1,4 @@
-# فایل‌های حساس
 .env
-
-# فایل‌های موقت Python
+*.sqlite3
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# محیط مجازی
 venv/
-env/
-
-# فایل‌های static و media
-staticfiles/
-media/
-
-# لاگ‌ها
-*.log
-
-# فایل‌های سیستم
-.DS_Store
