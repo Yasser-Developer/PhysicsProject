@@ -1,0 +1,22 @@
+# فایل‌های حساس
+.env
+
+# فایل‌های موقت Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# محیط مجازی
+venv/
+env/
+
+# فایل‌های static و media
+staticfiles/
+media/
+
+# لاگ‌ها
+*.log
+
+# فایل‌های سیستم
+.DS_Store
